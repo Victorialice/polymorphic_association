@@ -1,0 +1,1 @@
+rails generate model CatalogEntry name:string acquired_at:datetime resource_id:integer resource_type:string 
